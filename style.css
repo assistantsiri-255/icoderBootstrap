@@ -1,0 +1,6 @@
+.half-height-img {
+  height: 50vh;
+  /* Half of the viewport height */
+  object-fit: cover;
+  /* Ensures the image covers the width and height */
+}
